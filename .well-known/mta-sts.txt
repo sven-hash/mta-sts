@@ -1,4 +1,4 @@
 version: STSv1
-mode: none
+mode: enforce
 mx: mta-gw.infomaniak.ch
 max_age: 604800
